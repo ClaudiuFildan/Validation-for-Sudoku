@@ -1,0 +1,13 @@
+C:\Users\filda\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.exe
+C:\Users\filda\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.deps.json
+C:\Users\filda\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.runtimeconfig.json
+C:\Users\filda\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.runtimeconfig.dev.json
+C:\Users\filda\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.dll
+C:\Users\filda\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.pdb
+C:\Users\filda\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.csprojAssemblyReference.cache
+C:\Users\filda\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.csproj.CoreCompileInputs.cache
+C:\Users\filda\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.AssemblyInfoInputs.cache
+C:\Users\filda\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.AssemblyInfo.cs
+C:\Users\filda\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.dll
+C:\Users\filda\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.pdb
+C:\Users\filda\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.genruntimeconfig.cache
